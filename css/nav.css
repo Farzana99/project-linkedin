@@ -1,0 +1,11 @@
+.left-bottom, .right-bottom {
+    position: fixed;
+    bottom: 50px;
+    z-index: 999;
+}
+.left-bottom {
+    left: 50px;
+}
+.right-bottom {
+    right: 50px;
+}

@@ -1,0 +1,10 @@
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" width="56" height="56" viewBox="0 0 56 56">
+  <title>56dp</title>
+  <polygon points="33 13 33 18 23 18 23 13 7 13 7 43 49 43 49 13 33 13" style="fill: #fff"/>
+  <rect x="31" y="26" width="14" height="3" style="fill: #9bdaf3"/>
+  <rect x="31" y="32" width="11" height="3" style="fill: #9bdaf3"/>
+  <path d="M12,23V38H26V23Z" style="fill: #00a0dc"/>
+  <rect x="26" y="7" width="4" height="8" style="fill: #9bdaf3"/>
+  <path d="M50,10H33V6a2,2,0,0,0-2-2H25a2,2,0,0,0-2,2v4H6a2,2,0,0,0-2,2V44a2,2,0,0,0,2,2H50a2,2,0,0,0,2-2V12A2,2,0,0,0,50,10ZM26,7h4v8H26ZM49,43H7V13H23v3a2,2,0,0,0,2,2h6a2,2,0,0,0,2-2V13H49Z" style="fill: #005e93"/>
+  <path d="M21.63,32.54,20,32v-.91a1.5,1.5,0,0,0,.37-.52l.34-.85A4,4,0,0,0,21,28.23V28a2,2,0,0,0-4,0v.23a4,4,0,0,0,.29,1.49l.34.85a1.5,1.5,0,0,0,.37.52V32l-1.63.54A2,2,0,0,0,15,34.44V35h8v-.56A2,2,0,0,0,21.63,32.54Z" style="fill: #fff"/>
+</svg>

@@ -1,0 +1,64 @@
+/* navbar styles */
+.navbar {
+    background: white;
+    height: 64px;
+    padding: 10px 24px;
+}
+.navbar::after {
+    background: #0073b1;
+    bottom: 0;
+    content: '';
+    height: 2px;
+    left: 0;
+    position: absolute;
+    width: 100%;
+}
+/* main background styles */
+main {
+    background: url(../img/about.png);
+    background-position: top;
+    background-repeat: no-repeat;
+}
+main > .container {
+    padding-top: 250px;
+}
+body {
+    font-family: helvetica!important;
+    font-weight: 100!important;
+    text-align: center;
+}
+h1 {
+    font-size: 50px;
+    margin-top: 30px;
+}
+main hr {
+    margin: 50px 0;
+}
+/* footer styles */
+footer {
+    background: #e9e9e9;
+}
+footer h5 {
+    padding: 56px 0;
+}
+footer .info a {
+    font-weight: 700!important;
+    color: #006097!important;
+}
+footer .info div{
+    height: 60px;
+}
+footer .links a, footer .links {
+    color: #666;
+    font-size: 13px;
+}
+footer .d-none.d-md-block .links {
+    padding-bottom: 75px;
+}
+footer .d-md-none .links {
+    padding-bottom: 32px;
+}
+footer hr {
+    margin-top: 40px;
+    margin-bottom: 20px;
+}

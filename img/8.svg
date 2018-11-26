@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 17.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 56 56" enable-background="new 0 0 56 56" xml:space="preserve" width="56px" height="56px">
+<g>
+	<path fill="#FFFFFF" d="M12,50.5c-0.276,0-0.5-0.225-0.5-0.5V6c0-0.276,0.224-0.5,0.5-0.5h35c0.275,0,0.5,0.224,0.5,0.5v44
+		c0,0.275-0.225,0.5-0.5,0.5H12z"/>
+	<path fill="#005E93" d="M46,7v42H13V7H46 M47,4H12c-1.105,0-2,0.895-2,2v44c0,1.105,0.895,2,2,2h35c1.105,0,2-0.895,2-2V6
+		C49,4.895,48.105,4,47,4L47,4z"/>
+</g>
+<rect x="29" y="12" fill="#9BDAF3" width="15" height="3"/>
+<rect x="29" y="17" fill="#9BDAF3" width="12.857" height="3"/>
+<rect x="29" y="27" fill="#9BDAF3" width="15" height="3"/>
+<rect x="29" y="32" fill="#9BDAF3" width="12.857" height="3"/>
+<rect x="29" y="42" fill="#9BDAF3" width="15" height="3"/>
+<rect x="29" y="47" fill="#9BDAF3" width="12.857" height="3"/>
+<g>
+	<g>
+		<circle fill="#00A0DC" cx="21" cy="31" r="6"/>
+	</g>
+	<path fill="#FFFFFF" d="M23,32l-1.2-0.4v-0.8c0.667-0.333,0.767-0.767,0.767-0.767v-1.6C22.567,27.451,21.982,27,21,27h0
+		c-0.982,0-1.567,0.451-1.567,1.433v1.6c0,0,0.1,0.433,0.767,0.767v0.8L19,32c-0.887,0.314-1.6,1.059-1.6,2H21h3.6
+		C24.6,33.059,23.887,32.314,23,32z"/>
+</g>
+<g>
+	<g>
+		<circle fill="#00A0DC" cx="21" cy="16" r="6"/>
+	</g>
+	<path fill="#FFFFFF" d="M23,17l-1.2-0.4v-0.8c0.667-0.333,0.767-0.767,0.767-0.767v-1.6C22.567,12.451,21.982,12,21,12h0
+		c-0.982,0-1.567,0.451-1.567,1.433v1.6c0,0,0.1,0.433,0.767,0.767v0.8L19,17c-0.887,0.314-1.6,1.059-1.6,2H21h3.6
+		C24.6,18.059,23.887,17.314,23,17z"/>
+</g>
+<g>
+	<g>
+		<circle fill="#00A0DC" cx="21" cy="46" r="6"/>
+	</g>
+	<path fill="#FFFFFF" d="M23,47l-1.2-0.4v-0.8c0.667-0.333,0.767-0.767,0.767-0.767v-1.6C22.567,42.451,21.982,42,21,42h0
+		c-0.982,0-1.567,0.451-1.567,1.433v1.6c0,0,0.1,0.433,0.767,0.767v0.8L19,47c-0.887,0.314-1.6,1.059-1.6,2H21h3.6
+		C24.6,48.059,23.887,47.314,23,47z"/>
+</g>
+<rect x="14" y="49" fill="#005E93" width="31" height="3"/>
+</svg>

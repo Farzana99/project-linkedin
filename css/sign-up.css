@@ -1,0 +1,97 @@
+/* body background and font */
+body {
+    background: #00839b;
+    font-family: arial;
+}
+.logo {
+    font-weight: 400;
+    margin-top: 15px;
+}
+header {
+    margin: 30px 0;
+}
+/* footer style */
+footer {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-size: 14px;
+    color: #cccfd3;
+}
+/* form styles */
+.form-wrapper {
+    background: #eee;
+    padding: 15px 30px;
+    padding-bottom: 30px;
+}
+input {
+    border-radius: 0!important;
+    height: 32px!important;
+}
+/* form button styles */
+button {
+    border-radius: 5px!important;
+}
+button.join, button.join:hover {
+    font-weight: 700;
+    background-color: #287bbc;
+    border-color: #1b5480;
+}
+button.fb, button.fb:hover {
+    background-color: #385693;
+    border-color: #002d70;
+    padding: 0;
+}
+button.fb p {
+    padding: 6px;
+    margin: 0;
+}
+button.fb img {
+    height: 38px;
+    float: left;
+}
+/* form label and paragraph styles */
+label {
+    margin-bottom: 0;
+    color: #66696a;
+    font-size: 12px;
+}
+.form-group {
+    margin-bottom: 10px!important;
+}
+.disclosure {
+    font-size: 12px;
+    line-height: 14px;
+    color: #66696a;
+    margin-top: 15px;
+    text-align: center;
+}
+.disclosure a {
+    color: black;
+}
+p.or {
+    margin: 20px 0;
+}
+p.or .line {
+    display: inline-block;
+    vertical-align: middle;
+    top: 0;
+    width: 100%;
+    height: 1px;
+    background: #cccfd3;
+}
+p.or .content {
+    position: absolute;
+    left: 0;
+    width: 100%;
+    text-align: center;
+}
+p.or .content span {
+    padding: 0 20px;
+    background: #EEE;
+    text-align: center;
+    color: #96999c;
+}
+p.sign-in {
+    margin-top: 15px;
+    margin-bottom: 0;
+}
